@@ -1,0 +1,25 @@
+.container {
+  margin: 200px auto;
+  width: 150px;
+}
+
+form {
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+button {
+  margin-top: 5px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}

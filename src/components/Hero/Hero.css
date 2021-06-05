@@ -1,0 +1,14 @@
+.Hero {
+  display: block;
+  background: rgb(67, 62, 156);
+  background: linear-gradient(
+    90deg,
+    rgba(67, 62, 156, 1) 0%,
+    rgba(122, 41, 120, 1) 79%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  height: 100%;
+  width: 100%;
+  padding: 20% 20%;
+  color: white;
+}
